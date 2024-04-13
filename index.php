@@ -90,7 +90,7 @@
 
     <title>Решение задач по статистике онлайн, выполнение контрольных.</title>
 
-    <script src="//code.jivosite.com/widget/5LdBm6IIzR" async></script>
+    <script src="//code.jivo.ru/widget/TT5mxwTnRA" async></script>
 
 </head>
 <body>
@@ -149,7 +149,7 @@
 <footer>
     <?php include("footer.php"); ?>
 </footer>
-<!-- <script src="js/importComponents.js"></script> подключаем header, aside, footer -->
+<!-- <script src="js/importComponents.js"></> подключаем header, aside, footer -->
 
 
 
